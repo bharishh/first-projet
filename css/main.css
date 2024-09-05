@@ -26,6 +26,7 @@ figure{
 
 figure figcaption{
     text-align: center;
+    color: var(--white-smoke);
 }
 
 figure figcaption h2{
@@ -33,6 +34,6 @@ figure figcaption h2{
     line-height: 5rem;
 }
 
-footer{
+footer *{
     text-align: center;
 }
